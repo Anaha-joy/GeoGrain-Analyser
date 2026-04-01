@@ -39,5 +39,7 @@ Research workflows using UAV or other image-based datasets
 Project Goal
 
 The goal of GeoGrain Analyser is to make sediment and geomorphic image analysis more efficient, reproducible, and accessible through software-driven workflows.
+
 Status
+
 This project is under active development and continues to evolve with improvements to detection quality, classification, and analysis outputs.
